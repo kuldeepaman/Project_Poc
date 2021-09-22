@@ -1,4 +1,4 @@
-# Project_Datatrained
+# Project POC
 
 There are five practice project and five evaluation project
 
